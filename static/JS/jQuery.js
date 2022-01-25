@@ -40,3 +40,5 @@ $(".hovereffect, .overlay").hover(function (e) {
     e.type === "mouseenter" ? "rgba(236, 221, 221, 0.055)" : "transparent"
   );
 });
+
+$(document).ready(function(){ });
