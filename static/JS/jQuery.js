@@ -13,7 +13,7 @@ $(document).ready(function () {
 $(document).ready(function () {
   $(".product-dev").fadeOut();
   $(".dev-image").on("click", function () {
-    $(".product-dev").fadeIn();
+    $(".product-dev").fadein();
     $(".dev-image").toggle();
   });
   $(".product-dev").on("click", function () {
