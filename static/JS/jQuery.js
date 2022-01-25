@@ -41,4 +41,3 @@ $(".hovereffect, .overlay").hover(function (e) {
   );
 });
 
-$(document).ready(function(){ });
