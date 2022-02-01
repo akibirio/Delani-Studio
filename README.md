@@ -7,7 +7,7 @@ This is a landing page for Delani Studio a design studio where All aspects of ou
 - HTML
 - CSS
 - JS-jQuery
-- Bootstrap
+- Bootstraps
 ---
 ## Known bugs
 There are no known bugs. Report any bug to the author @ayubkibirio@gmail.com
